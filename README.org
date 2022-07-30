@@ -1,1 +1,1 @@
-* This is a Haskell library for prompting
+* This is a Haskell library for multi-modal prompting
